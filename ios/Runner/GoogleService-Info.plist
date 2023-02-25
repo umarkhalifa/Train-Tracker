@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>97890621500-fk3q9qhsuidg763ujub76a3vjeorhh2h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.97890621500-fk3q9qhsuidg763ujub76a3vjeorhh2h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzxqFgIpMhq51YkoMqzGlgVAIGKmjY2oU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>97890621500</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.trainTracking</string>
+	<key>PROJECT_ID</key>
+	<string>royal-riders-d205b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>royal-riders-d205b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:97890621500:ios:3c9f9b882e98ede61fcb39</string>
+</dict>
+</plist>
